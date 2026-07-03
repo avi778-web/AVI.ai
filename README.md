@@ -1,4 +1,4 @@
-avi.AI: Next-Gen Desktop Intelligence
+avi.ai: Next-Gen Desktop Intelligence
 
 Aanya is a powerful, locally-installed AI assistant designed to bridge the gap between natural language and system-level control. Built with Python and powered by the ultra-fast Groq LPU, Aanya allows users to control their PC, manage files, and execute complex workflows using simple voice commands.
 
